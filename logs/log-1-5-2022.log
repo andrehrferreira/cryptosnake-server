@@ -157,3 +157,31 @@
 2022-06-20T15:04:54.303Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
 2022-06-20T15:05:26.718Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
 2022-06-20T15:05:37.669Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T15:50:17.622Z info: Loading proto...
+2022-06-20T15:50:17.742Z info: Creating tables...
+2022-06-20T15:50:17.749Z info: Create websocket server...
+2022-06-20T15:50:17.752Z info: Server started on port 8999
+2022-06-20T15:52:54.189Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T15:53:33.990Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T15:54:58.696Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T15:55:10.083Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T15:58:20.545Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T15:59:33.427Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:00:06.736Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:00:48.790Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:00:54.137Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:01:02.486Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:01:23.259Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:01:35.912Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:01:43.140Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:01:50.400Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:02:01.219Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:02:22.392Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:02:50.667Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:02:58.654Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:03:07.118Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:03:22.610Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:03:29.246Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:04:40.296Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:04:57.311Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected
+2022-06-20T16:17:01.776Z info: Client 0x3bbacf160c0fb4d9cd212c5ba0442707db6c399c connected

@@ -1,7 +1,7 @@
 {
-  "name": "server",
+  "name": "@cryptosnake/server",
   "version": "1.0.0",
-  "description": "* Crypto Snake Server",
+  "description": "Crypto Snake Server",
   "main": "server.js",
   "scripts": {
     "start": "nodemon"
@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
     "ethers": "^5.6.9",
     "express": "^4.18.1",
     "morgan": "^1.10.0",
