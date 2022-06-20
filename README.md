@@ -1,7 +1,11 @@
 # Crypto Snake Server
 
-- Validate snake
-- Websocket server
+- Validate snake ✅
+- Websocket server ✅
 - Create room
 - Gameplay
 - Give tokens
+
+# References
+
+* 
