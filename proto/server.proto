@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+package server;
+
+message Empty {}
+
+enum Types {
+    UUIDValidation = 1;
+    ClientAuth = 2;
+    Profile = 3;
+}
+
+message MessageType{
+    Types type = 1;
+}
+
+message UUIDValidation{
+    required Types type = 1;
+    required string uuid = 2;
+}
+
+message ClientAuth{
+    required Types type = 1;
+    required string uuid = 2;
+    required string wallet = 3;
+    required string nonce = 4;
+    required string sign = 5;
+}
+
+message Profile{
+    required Types type = 1;
+    required int32 energies = 2;
+}
