@@ -1,4 +1,4 @@
-* Crypto Snake Server
+# Crypto Snake Server
 
 - Validate snake
 - Websocket server
